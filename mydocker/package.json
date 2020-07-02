@@ -1,0 +1,16 @@
+{
+  "name": "mydocker",
+  "version": "1.0.0",
+  "description": "MyDocker: Express/Docker Hello World",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Sam Chaara (chaaras)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

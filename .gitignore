@@ -1,0 +1,3 @@
+.gcloudignore
+*-credentials.json
+node_modules/
